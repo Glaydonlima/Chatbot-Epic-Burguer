@@ -17,9 +17,13 @@ export const stageTwo = {
         msg = option.message
         storage[params.from].stage = option.nextStage
       } else {
+        getMenu = Object.keys(menu).forEach((value) => {
+          message += `${numbers[value]} - _${menu[value].description}_ \n`
+        })
         msg =
           `✅ *${menu[message].description}* adicionado com sucesso! \n\n` +
-          '```Digite outra opção```: \n\n' +
+          '```Deseja mais algo? digite outra opção```: \n\n' +getMenu
+          +
           '\n-----------------------------------\n#️⃣ - ```FINALIZAR pedido``` \n*️⃣ - ```CANCELAR pedido```'
         storage[params.from].itens.push(menu[message])
       }

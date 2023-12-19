@@ -1,22 +1,22 @@
 export const menu = {
   1: {
-    description: 'Leite Ninho',
-    price: 6,
+    description: 'Hamburguer',
+    price: 20 ,
   },
   2: {
-    description: 'Alpino',
-    price: 6,
+    description: 'Cachorro Quente',
+    price: 8,
   },
   3: {
-    description: 'Prestígio',
-    price: 6,
+    description: 'Cachorro Quente 30CM',
+    price: 12,
   },
   4: {
-    description: 'Abacaxi',
-    price: 6,
+    description: 'Cachorro Quente 60CM',
+    price: 20,
   },
   5: {
-    description: 'Dois Amores',
-    price: 6,
+    description: 'Cachorro Quente 1M',
+    price: 25,
   },
 }
