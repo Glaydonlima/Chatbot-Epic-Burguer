@@ -1,81 +1,53 @@
 /* eslint-disable no-multi-str */
 export const neighborhoods =
-  'Abraão Alab --> *5 reais* \
-\nAdalberto Aragão --> *5 reais* \
-\nAeroporto Velho --> *5 reais* \
-\nAreial --> *6 reais* \
-\nAviário --> *5 reais* \
-\nAyrton Senna --> *7 reais*  \
-\nBahia Nova --> *7 reais* \
-\nBahia Velha --> *7 reais*  \
-\nBairro XV --> *5 reais* \
-\nBairro da Base --> *5 reais* \
-\nBairro da Paz --> *5 reais* \
-\nBoa União --> *7 reais* \
-\nBosque --> *5 reais* \
-\nCadeia Velha --> *5 reais* \
-\nCaladinho --> *7 reais* \
-\nCalafate --> *8 reais* \
-\nCapoeira --> *5 reais* \
-\nCentro --> *5 reais* \
-\nCerâmica --> *5 reais* \
-\nChico Mendes --> *5 reais* \
-\nCidade Nova --> *5 reais* \
-\nConjunto Adalberto Sena --> *5 reais* \
-\nConjunto Bela Vista --> *5 reais* \
-\nConjunto Castelo Branco --> *5 reais*  \
-\nConjunto Esperança I e II --> *5 reais* \
-\nConjunto Guiomard Santos --> *5 reais* \
-\nConjunto Mariana --> *6 reais* \
-\nConjunto Mascarenha de Morais --> *5 reais*  \
-\nConjunto Rui Lino --> *6 reais* \
-\nConjunto Tancredo Neves --> *5 reais* \
-\nConjunto Tangará --> *5 reais* \
-\nConjunto Tucumã I --> *7 reais* \
-\nConjunto Tucumã II --> *7 reais* \
-\nConjunto Xavier Maia --> *5 reais* \
-\nConquista --> *5 reais* \
-\nDefesa Civil --> *5 reais* \
-\nDoca Furtado --> *5 reais* \
-\nEldorado --> *5 reais* \
-\nEstação Experimental --> *5 reais* \
-\nFloresta --> *6 reais* \
-\nFloresta Sul --> *8 reais* \
-\nGeraldo Fleming --> *5 reais* \
-\nHabitasa --> *6 reais* \
-\nIpase --> *5 reais* \
-\nIpê --> *8 reais*  \
-\nIrineu Serra --> *7 reais*  \
-\nIvete Vargas --> *5 reais*  \
-\nIsaura Parente --> *5 reais* \
-\nJardim Brasil --> *5 reais* \
-\nJardim Europa --> *5 reais* \
-\nJardim Primavera --> *6 reais* \
-\nJoão Eduardo I --> *5 reais* \
-\nJoão Eduardo II --> *5 reais*\
-\nJorge Lavocat --> *5 reais* \
-\nLoteamento Novo Horizonte --> *5 reais* \
-\nManoel Julião --> *5 reais* \
-\nMocinha Magalhães --> *7 reais* \
-\nMontanhês --> *5 reais* \
-\nMorada do Sol --> *5 reais* \
-\nNova Estação --> *5 reais* \
-\nPalheiral --> *6 reais* \
-\nPapouco --> *5 reais* \
-\nParque dos Sabiás --> *5 reais* \
-\nPista --> *5 reais* \
-\nPlacas --> *5 reais* \
-\nPortal da Amazônia Placas --> *8 reais* \
-\nRaimundo Melo --> *5 reais* \
-\nResidencial Ouricuri --> *5 reais* \
-\nSanta Inês --> *8 reais* \
-\nSão Francisco --> *5 reais* \
-\nSeis de Agosto --> *5 reais* \
-\nSobral --> *5 reais* \
-\nTropical --> *5 reais* \
-\nVila Ivonete --> *5 reais* \
-\nVila Nova --> *5 reais* \
-\nVillage --> *5 reais* \
-\nVitória --> *5 reais*  \
-\nVolta Seca --> *5 reais* \
-\nWanderley Dantas --> *5 reais*'
+  'Candeias --> *6 reais* \
+Barra de Jangada --> *6 reais* \
+Prazeres --> *6 reais* \
+Candeias --> *6 reais* \
+Boa Viagem (Recife) --> *7 reais* \
+Caxangá (Recife) --> *7 reais* \
+Imbiribeira (Recife) --> *7 reais* \
+Jaboatão Centro --> *6 reais* \
+Cavaleiro --> *6 reais* \
+Jardim Jordão --> *6 reais* \
+Socorro --> *6 reais* \
+Vila Rica --> *6 reais* \
+Praia do Paiva --> *7 reais* \
+Praia de Barra de Jangada --> *7 reais* \
+Piedade --> *7 reais* \
+Praia da Boa Viagem (Recife) --> *7 reais* \
+Praia de Candeias --> *7 reais* \
+Jardim São Paulo (Recife) --> *7 reais* \
+Muribeca --> *7 reais* \
+Barra de Jangada --> *7 reais* \
+Praia do Candeias --> *7 reais* \
+Cajueiro Seco --> *6 reais* \
+Jardim Prazeres --> *6 reais* \
+Jardim Jordão --> *6 reais* \
+Jardim Monte Verde --> *6 reais* \
+Muribeca dos Guararapes --> *6 reais* \
+Jardim Piedade --> *6 reais* \
+Jardim Atlântico --> *6 reais* \
+Cidade Universitária (Recife) --> *7 reais* \
+Jordão Alto --> *6 reais* \
+Curado --> *6 reais* \
+Coqueiral --> *6 reais* \
+Cidade Garapu --> *6 reais* \
+Jardim São Francisco --> *6 reais* \
+Vila Muribequinha --> *6 reais* \
+Vila Andorinha --> *6 reais* \
+Nova Descoberta (Recife) --> *7 reais* \
+Santo Aleixo --> *6 reais* \
+Vila Rica --> *6 reais* \
+Vila Hípica --> *6 reais* \
+Vila Sotave --> *6 reais* \
+Santo Antônio (Jaboatão) --> *6 reais* \
+Conjunto Muribeca --> *6 reais* \
+Socorro (Jaboatão) --> *6 reais* \
+Praia do Suape --> *7 reais* \
+São Francisco (Jaboatão) --> *6 reais* \
+Cidade Recife (Recife) --> *7 reais* \
+Jardim São Paulo (Jaboatão) --> *6 reais* \
+Zumbi (Recife) --> *7 reais* \
+Sucupira (Jaboatão) --> *6 reais* \
+'
